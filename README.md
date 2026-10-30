@@ -161,8 +161,6 @@ A selection of projects exploring software engineering, intelligent systems, and
 
 ---
 
----
-
 ## 04 / ACTIVITY
 
 ### Engineering activity
@@ -170,7 +168,7 @@ A selection of projects exploring software engineering, intelligent systems, and
 <div align="center">
   <img
     src="github-metrics.svg"
-    width="100%"
+    width="65%"
     alt="GitHub profile metrics"
   />
 </div>
