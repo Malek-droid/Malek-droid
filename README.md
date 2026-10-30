@@ -40,5 +40,41 @@ Currently, I'm focused on strengthening my engineering foundations, exploring ap
 
 <br/>
 
+
+---
+
+## 02 / TECHNICAL DNA
+
+### Technologies & tools
+
+A collection of technologies I've worked with across application development, backend engineering, databases, and intelligent software projects.
+
+**01 / APPLICATION ENGINEERING**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind" alt="Frontend technologies" />
+</p>
+
+**02 / BACKEND & DATA**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,flask" alt="Backend and database technologies" />
+</p>
+
+**03 / PROGRAMMING & AI**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs" alt="Programming languages" />
+</p>
+
+**04 / ENGINEERING TOOLS**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Engineering tools" />
+</p>
+
+<sub>ALSO WORKED WITH: SOCKET.IO · CLOUDINARY · OLLAMA</sub>
+
+
 <sub>BASED IN TUNISIA · CURRENTLY PURSUING A MASTER'S DEGREE</sub>
 
