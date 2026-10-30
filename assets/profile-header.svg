@@ -1,0 +1,61 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#34294D" stroke-width="0.8"/>
+    </pattern>
+    <radialGradient id="ambient">
+      <stop offset="0%" stop-color="#7954D9" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0B0B12" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="#0B0B12"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <ellipse cx="950" cy="180" rx="390" ry="260" fill="url(#ambient)"/>
+
+  <path d="M34 55V34H55 M1145 34H1166V55 M34 305V326H55 M1145 326H1166V305"
+        fill="none" stroke="#9B78FF" stroke-width="1.5"/>
+
+  <g fill="none" stroke="#7954D9" opacity=".65">
+    <circle cx="950" cy="180" r="112" stroke-dasharray="5 8"/>
+    <circle cx="950" cy="180" r="78"/>
+    <circle cx="950" cy="180" r="45" stroke-dasharray="2 6"/>
+    <path d="M810 180H1090 M950 40V320"/>
+    <path d="M850 80L1050 280 M1050 80L850 280" opacity=".45"/>
+  </g>
+
+  <g fill="#B49AFF">
+    <circle cx="950" cy="68" r="3"/>
+    <circle cx="1062" cy="180" r="3"/>
+    <circle cx="950" cy="292" r="3"/>
+    <circle cx="838" cy="180" r="3"/>
+  </g>
+
+  <g font-family="monospace" font-size="12" letter-spacing="2" fill="#B49AFF">
+    <text x="72" y="75">SYSTEM PROFILE / 001</text>
+    <text x="72" y="284" fill="#827B91">TUNISIA · FULL-STACK · AI · SYSTEMS</text>
+  </g>
+
+  <text x="68" y="166" font-family="Arial,sans-serif"
+        font-size="72" font-weight="700" letter-spacing="-3" fill="#F4F0FF">
+    MALEK<tspan fill="#9B78FF">.</tspan>
+  </text>
+
+  <text x="74" y="207" font-family="Arial,sans-serif"
+        font-size="21" fill="#C6B8FF">
+    Information Systems Engineer in progress.
+  </text>
+
+  <text x="74" y="239" font-family="Arial,sans-serif"
+        font-size="14" fill="#A49BB8">
+    Building intelligent applications. Engineering digital solutions.
+  </text>
+
+  <g font-family="monospace" font-size="10" fill="#827B91">
+    <text x="1080" y="72">FIG. 001</text>
+    <text x="1080" y="88">REV. 01</text>
+   <text x="1080" y="300">REGION</text>
+   <text x="1080" y="315">TUNISIA</text>
+  </g>
+</svg>

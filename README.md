@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Malek-droid/Malek-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img
+    src="assets/blueprint-animation.gif"
+    width="100%"
+    alt="Malek's animated engineering blueprint header"
+  />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **INFORMATION SYSTEMS ENGINEERING · MASTER'S STUDENT**
+
+  Building intelligent applications, exploring AI, and engineering digital solutions.
+
+</div>
