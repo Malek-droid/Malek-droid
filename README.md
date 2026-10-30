@@ -76,5 +76,118 @@ A collection of technologies I've worked with across application development, ba
 <sub>ALSO WORKED WITH: SOCKET.IO · CLOUDINARY · OLLAMA</sub>
 
 
+---
+
+## 03 / SELECTED WORK
+
+### Engineering projects & experiments
+
+A selection of projects exploring software engineering, intelligent systems, and practical digital products.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / MODEL DRIFT DETECTION</h3>
+      <sub>AI · MACHINE LEARNING · DATA ANALYSIS</sub>
+      <br/><br/>
+      A fraud detection monitoring project exploring how changes in data distributions can affect machine learning model performance over time.
+      <br/><br/>
+      <b>Key findings</b>
+      <ul>
+        <li>14 of 29 features showed detected drift.</li>
+        <li>Recall changed from 0.8852 to 0.6852.</li>
+        <li>Examined model performance under changing data conditions.</li>
+      </ul>
+      <sub>PYTHON · MACHINE LEARNING · MODEL MONITORING</sub>
+      <br/><br/>
+      <sub>INTERNSHIP PROJECT · ORGANIZATION-OWNED</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / HRcoM · DotJcoM</h3>
+      <sub>FULL-STACK · HR MANAGEMENT · AI-ASSISTED SYSTEMS</sub>
+      <br/><br/>
+      An all-in-one web application for HR and internship management, with AI-assisted project team assignment optimization.
+      <br/><br/>
+      <b>Core areas</b>
+      <ul>
+        <li>Employee and internship management.</li>
+        <li>Attendance and administrative workflows.</li>
+        <li>AI-assisted team assignment.</li>
+      </ul>
+      <sub>REACT · TYPESCRIPT · NODE.JS · EXPRESS · MONGODB</sub>
+      <br/><br/>
+      <sub>FINAL-YEAR PROJECT · COMPANY-ASSOCIATED</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / SMARTCOMPARE</h3>
+      <sub>WEB DEVELOPMENT · PRODUCT EXPERIENCE</sub>
+      <br/><br/>
+      A cosmetics and personal-care comparison application designed to help users explore products and compare their characteristics.
+      <br/><br/>
+      <b>Focus areas</b>
+      <ul>
+        <li>Product exploration.</li>
+        <li>Product comparison experience.</li>
+        <li>Reusable frontend components.</li>
+      </ul>
+      <sub>REACT · TYPESCRIPT · TAILWIND CSS</sub>
+      <br/><br/>
+      <sub>WEB APPLICATION PROTOTYPE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / APPOINTMENT MANAGEMENT</h3>
+      <sub>PRODUCT DEVELOPMENT · FULL-STACK</sub>
+      <br/><br/>
+      An appointment management product concept for service-based businesses, focused on simplifying scheduling and client management.
+      <br/><br/>
+      <b>Product direction</b>
+      <ul>
+        <li>Appointment scheduling workflows.</li>
+        <li>Business and client management.</li>
+        <li>Simple, accessible user experience.</li>
+      </ul>
+      <sub>REACT · NODE.JS · MONGODB</sub>
+      <br/><br/>
+      <sub>IN DEVELOPMENT</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub>PROJECT DESCRIPTIONS REFLECT CURRENTLY KNOWN SCOPE. DEMOS AND REPOSITORY LINKS WILL BE ADDED WHEN PUBLICLY SHAREABLE.</sub>
+
+---
+
+## 04 / ACTIVITY
+
+### Engineering activity
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Malek-droid&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=B49AFF&text_color=D9D2FF&icon_color=78DCE8"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Malek-droid&theme=transparent&hide_border=true&background=0B0B12&ring=B49AFF&fire=78DCE8&currStreakLabel=D9D2FF"
+    height="165"
+    alt="GitHub contribution streak"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Malek-droid&bg_color=0B0B12&color=D9D2FF&line=B49AFF&point=78DCE8&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</div>
+
+
 <sub>BASED IN TUNISIA · CURRENTLY PURSUING A MASTER'S DEGREE</sub>
 
