@@ -161,33 +161,20 @@ A selection of projects exploring software engineering, intelligent systems, and
 
 ---
 
+---
+
 ## 04 / ACTIVITY
 
 ### Engineering activity
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Malek-droid&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=B49AFF&text_color=D9D2FF&icon_color=78DCE8"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Malek-droid&theme=transparent&hide_border=true&background=0B0B12&ring=B49AFF&fire=78DCE8&currStreakLabel=D9D2FF"
-    height="165"
-    alt="GitHub contribution streak"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Malek-droid&bg_color=0B0B12&color=D9D2FF&line=B49AFF&point=78DCE8&area=true&hide_border=true"
+    src="github-metrics.svg"
     width="100%"
-    alt="GitHub contribution activity graph"
+    alt="GitHub profile metrics"
   />
 </div>
 
-
+<sub>ACTIVITY · CONTRIBUTIONS · COMMUNITY · REPOSITORY OVERVIEW</sub>
 <sub>BASED IN TUNISIA · CURRENTLY PURSUING A MASTER'S DEGREE</sub>
 
